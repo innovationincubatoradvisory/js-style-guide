@@ -5,6 +5,41 @@
 
 > **Note**: this guide assumes you are using [Babel](https://babeljs.io), and requires that you use [babel-preset-airbnb](https://npmjs.com/babel-preset-airbnb) or the equivalent. It also assumes you are installing shims/polyfills in your app, with [airbnb-browser-shims](https://npmjs.com/airbnb-browser-shims) or the equivalent.
 
+
+## Document Information
+
+Style guides are written so that new developers may quickly become comfortable with a code base and then generate code that other developers can understand.
+
+This style guide is mostly based on the standards that are currently prevalent in JavaScript, although some conventions (i.e async/await or static class fields) may still be included or prohibited on a case-by-case basis.
+
+
+
+|  |  |
+| ---- | ---- |
+Title | Style Guide for Javascript
+Version | 0.1
+Status | Draft Pending Review
+Created By |  Stalin Pereira & Praveen Kumar T
+Created On | 08/21/2023
+Last updated By | 
+Last Updated On |
+
+## Document Revisions
+
+| Date | Version | Document Changes |
+| ---- | ---- | ---- |
+| 08/21/2023 | 0.1 | Inital Draft
+
+
+## Approvals
+
+| Role | Name | Signature | Date |
+| -- | -- | -- | -- |
+| CTO | 
+| AVP | 
+| Architect Lead |
+
+
 ## Table of Contents
 
   1. [Types](#types)
