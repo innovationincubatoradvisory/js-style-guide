@@ -36,8 +36,9 @@ Last Updated On |
 | Role | Name | Signature | Date |
 | -- | -- | -- | -- |
 | CTO | 
-| AVP | 
+| AVP | Praveen | 
 | Architect Lead |
+| Engineering Manager |
 
 
 ## Table of Contents
